@@ -8,5 +8,7 @@ This project it's to learn DevOps
 3. [this is a test]
 
 2. [Python exercises](python)
-3- this is a test
 
+3. Resourcec
+
+- [Draw flowcharts](https://draw.io)
