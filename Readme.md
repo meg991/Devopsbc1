@@ -13,7 +13,3 @@ This project it's to learn DevOps
 
 - [Draw flowcharts](https://draw.io)
 
-
-
-
-
