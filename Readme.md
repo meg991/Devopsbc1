@@ -16,7 +16,8 @@ This project it's to learn DevOps
 
 2. [Python exercises](python)
 
-3. Resource using Emerson in the class:
-- [
+3. Resources:
+- [Learning code](www.freecodecamp.org) 
 - [Draw flowcharts](https://draw.io)
+- 
 
